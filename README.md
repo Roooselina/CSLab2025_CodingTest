@@ -1,4 +1,20 @@
 # CSLab2025_CodingTest
+
+순천향대학교 컴퓨터시스템 연구실 학생 4명이 2025년 1~2월에 진행한 코딩 테스트 스터디 기록입니다. 백준과 프로그래머스 문제를 풀고 사람별 폴더에 올렸습니다.
+
+| 폴더 | 작성자 | 언어 | 파일 수 |
+|---|---|---|---|
+| `eunjeong/` | 이은정 | Python | 17 |
+| `donggyun/`, `eojin/`, `yowon/` | 다른 스터디원 | Python, Java | 7, 6, 5 |
+
+- 파일 이름은 `MMDD_문제번호`(예: `0108_10872.py`)입니다.
+- 연구실 조직 저장소 [SCH-ComputerSystem-LAB/CSLab2025_CodingTest](https://github.com/SCH-ComputerSystem-LAB/CSLab2025_CodingTest)에도 같은 이름의 스터디 저장소가 있습니다.
+- 참고 자료는 [References.md](References.md)에 있습니다.
+
+---
+
+아래는 스터디 운영 규칙입니다.
+
 **CSLab 코테 스터디**
 
 💻 **코딩 스터디 규칙**
